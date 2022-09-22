@@ -1,0 +1,47 @@
+body {
+    background-color: lightsalmon;
+    font-size: 20px;
+    margin: 0;
+}
+
+header {
+    background-color: lightgrey;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+section {
+float: left;
+width: 60%;
+margin-bottom: 100px;
+}
+
+aside {
+float: right;
+width: 29%;
+}
+
+footer {
+    background-color: lightgray;
+    clear: both;
+    padding: 50px 0;
+    text-align: center;
+}
+a {
+    color: orangered;
+}
+
+a:hover {
+    color: cornflowerblue;
+}
+
+img {
+    width: 100%
+}
